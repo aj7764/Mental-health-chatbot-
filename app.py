@@ -6,7 +6,7 @@ import google.generativeai as genai
 import traceback
 
 # ---- 🌐 Gemini AI API Key ----
-GEMINI_API_KEY = "AIzaSyBWQF5x7B9RklhjRxcaKmDfxrU1IM1Exfw"
+GEMINI_API_KEY = ""
 genai.configure(api_key=GEMINI_API_KEY)
 
 # ---- 🎨 PAGE CONFIGURATION ----
